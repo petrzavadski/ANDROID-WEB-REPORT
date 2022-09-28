@@ -2,6 +2,8 @@
 
 ![](https://github.com/petrzavadski/report/blob/main/image.jpg?raw=true)
 
-- [V] Android real time report application
-- [V] Async fetch data from server
-- [V] JSON compilation 
+`Application Advantages and Capabilities:`
+
+- Android real time report application
+- Async fetch data from server
+- JSON compilation 
