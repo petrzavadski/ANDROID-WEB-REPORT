@@ -1,6 +1,6 @@
 # report
 
-![This is an image](https://github.com/petrzavadski/report/image.svg)
+![This is an image](https://github.com/petrzavadski/report/blob/main/image.jpg?raw=true)
 
 `Report on Android (JSON backend)`
 - [x] #739
