@@ -1,0 +1,13 @@
+{
+  "blogposts": [
+    {
+      "date": "27.09.21",
+      "doneInc": 316,
+      "doneExc": 192,
+      "underDev": 60,
+      "underApp": 20,
+      "remedyFlaws": 29,
+      "approved": 143
+    }
+  ]
+}
